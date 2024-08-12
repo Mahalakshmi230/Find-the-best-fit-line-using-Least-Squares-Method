@@ -41,11 +41,11 @@ print(Y_Pred)
 plt.scatter(X,Y)
 plt.plot(X,Y_Pred,color="red")
 plt.show()
+
 ```
 
 ## Output:
-![image](https://github.com/user-attachments/assets/b10de7e7-b99b-4021-a56a-1c23b44b890a)
-
+![Screenshot 2024-08-12 102438](https://github.com/user-attachments/assets/01e3a611-98c6-4b7b-ad4b-a53d7e449a0b)
 
 
 ## Result:
